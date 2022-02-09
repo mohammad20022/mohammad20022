@@ -1,29 +1,28 @@
-### Hi there 👋
 
-<!--
-**mohammad20022/mohammad20022** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋, my name is Muhammed 
+#### I am self taught Front end developer 
+![I am self taught Front end developer ](https://media-exp1.licdn.com/dms/image/C4D16AQEaOOQWP4nPPQ/profile-displaybackgroundimage-shrink_200_800/0/1644233747263?e=1649894400&v=beta&t=5ysNi9Jgdsb_eirI30m3oPtve6WvVM00PkLZ1qjAmm8)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi there 👋, my name is Arturs
-#### I am GitHub Readme Generator's creator
-![I am GitHub Readme Generator's creator](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
-Skills: VUE JS / REACT / JS / HTML / CSS
-
-- 🔭 I’m currently working on this page. 
+“I’m a first-year Mechanical Engineering undergraduate student at Siirt University. Self-taught front-end developer. Mastering four languages. Having a passion for The Fourth Industrial Revolution, this passion has given me the ability to learn programs for a multitude of things, including AI, robots, programming languages, electric cars, and databases.
 
 
+I enjoy solving technical problems, researching and developing new technologies, designing software applications for different platforms.
+
+ I enjoy meeting people and working with them in a team environment. I also enjoy interacting with clients and customers. My strong customer service skills allow me to do this well. I am a quick learner with a fun, outgoing personality. In addition, I excel in my ability to work under pressure and handle stressful situations very well.
+
+Skills: VUE JS / REACT / JS / HTML / CSS / Python 
+
+- 🔭 I’m currently working on my projects  
+- 🌱 I’m currently learning everything  
+- 📫 How to reach me: you can reach me throght twiter  
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mohammad20022)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/muhammedhaan//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100066712050347)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/Muhammed__Hasan)  
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammad20022)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammad20022&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammad20022)  
 
 

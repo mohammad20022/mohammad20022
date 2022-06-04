@@ -13,7 +13,7 @@
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height ="100px"></h2>
 
-<img width="45%"  align="right" alt="Github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+<img  height ="200px" width="35%" align="right" alt="Github" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 
 - 🔭 I’m currently working on My Website, GitHub Project

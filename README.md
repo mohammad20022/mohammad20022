@@ -8,7 +8,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge&left_color=red&right_color=green) 
 
 </p>
-<div size='2px'> Hi! My name is Muhammad Hasan I am Engineering Student Currenlty Learing ML engineering . Thank You for taking the time to view my GitHub Profile :smile: 
+<div size='2px'> Engineering and tech enthusiast with a passion for Programming especially AI/ML. Always ready to push boundaries, explore new ideas, and create something extraordinary . Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
 <h2> About Me <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" height ="100px"></h2>

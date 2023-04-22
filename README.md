@@ -1,3 +1,5 @@
+
+      
 ### <div align="center">Hi there 👋
  I’m a backend developer, sophomore mechanical engineering student, and Tech enthusiast. I’m interested in building innovative and scalable solutions for real-world problems</div>
  
@@ -77,9 +79,13 @@
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
+<br/>  
+
+
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muhammedhasann&data=followers,repositories,stars,commits)](https://github.com/muhammedhasann/github-widgetbox)
 
 <br/>  
+
 
 
 ## Github Stats  

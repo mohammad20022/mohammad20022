@@ -5,6 +5,7 @@
  
 
 <br/>  
+
 - 🔭 I’m currently working on  some of my projects include a AI Chat-bot, Fit-app & Chrome Extension   
   
 
@@ -80,9 +81,6 @@
 </a>  
 </div>  
 <br/>  
-
-
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=muhammedhasann&data=followers,repositories,stars,commits)](https://github.com/muhammedhasann/github-widgetbox)
 
 <br/>  
 

@@ -1,18 +1,18 @@
 
       
 ### <div align="center">Hi there 👋
- I’m a backend developer, sophomore mechanical engineering student, and Tech enthusiast. I’m interested in building innovative and scalable solutions for real-world problems</div>
+ I’m a backend developer student and sophomore mechanical engineering student. I’m interested in building innovative and scalable solutions for real-world problems</div>
  
 
 <br/>  
 
-- 🔭 I’m currently working on  some of my projects include a AI Chat-bot, Fit-app & Chrome Extension   
+- 🔭 I’m currently working on  some of my projects include a AI Education platform, Fit-app & chat   
   
 
-- 🌱 I’m currently learning Node.js, Express.js, DS&A, API  
+- 🌱 I’m currently learning  DS&A, Leetcode(: , Design Pattern   
   
 
-- ❓ Ask me about anything related to MERN stack, IOT, Robotics and related technologies  
+❓: Ask me about anything related to Backend front end, and related technologies  
   
 
 <br/>  

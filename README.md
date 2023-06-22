@@ -1,7 +1,7 @@
 
       
-### <div align="center">Hi there 👋
- I’m a backend developer student and sophomore mechanical engineering student. I’m interested in building innovative and scalable solutions for real-world problems</div>
+### <div align="center">Hi there, 👋
+I’m a backend developer student and a sophomore mechanical engineering student. Interested in building innovative and scalable solutions for real-world problems </div>
  
 
 <br/>  

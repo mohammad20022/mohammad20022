@@ -1,21 +1,18 @@
 
-      
-### <div align="center">Hi there, 👋
-I’m a backend developer student and a sophomore mechanical engineering student. Interested in building innovative and scalable solutions for real-world problems </div>
- 
+<div align=“center”>Hi there, 👋
+I’m a Backend engineer and junior-year mechanical engineering student. I’m passionate about building innovative and scalable solutions for real-world problems using cutting-edge technologies </div>
 
-<br/>  
+I’m also interested in product design and I’m actively participating in competitions to challenge myself and learn new skills.
 
-- 🔭 I’m currently working on  some of my projects include a AI Education platform, Fit-app & chat   
-  
+<br/>
 
-- 🌱 I’m currently learning  DS&A, Leetcode(: , Design Pattern   
-  
+🔭 I’m currently working on some of my projects, such as an AI Education platform, a Fit-app, and a chat app
 
-❓: Ask me about anything related to Backend front end, and related technologies  
-  
+🌱 I’m currently learning DS&A, Leetcode, Design Patterns, and more
 
-<br/>  
+❓ Ask me anything related to software engineering, front-end, back-end, and related technologies
+
+<br/>
 
 
 ## My Skill Set  
@@ -70,13 +67,13 @@ I’m a backend developer student and a sophomore mechanical engineering student
 <a href="https://github.com/muhammedhasann" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://twitter.com/https://twitter.com/Muhammed__Hasan" target="_blank">
+<a href="https://twitter.com/Muhammed__Hasan" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
 </a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/muhammedhaan/" target="_blank">
+<a href="https://www.linkedin.com/in/muhammedhaan/" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/channel/UCgEIJnIsBcyLum3ttNowXBg" target="_blank">
+<a href="https://www.youtube.com/channel/UCgEIJnIsBcyLum3ttNowXBg" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  

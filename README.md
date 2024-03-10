@@ -1,26 +1,29 @@
-<img src="https://raw.githubusercontent.com/BEPb/BEPb/5c63fa170d1cbbb0b1974f05a3dbe6aca3f5b7f3/assets/Bottom_up.svg" width="100%" />
-
-<div align=“center”>Hi there, 👋
-I’m a Backend engineer and junior-year mechanical engineering student. I’m passionate about building innovative and scalable solutions for real-world problems using cutting-edge technologies </div>
-
-I’m also interested in product design and I’m actively participating in competitions to challenge myself and learn new skills.
+<h1 align="center">Hello there, I'm Muhammed!</h1>
 
 <br/>
-
-- 🔭 I’m currently working on [Impakt](https://github.com/omikay/rcdd-capstone-impakt)
-- 👯 I’m looking to collaborate on [Fit.io](https://github.com/muhammedhasann/Fit.io)
-- 🤝 I’m looking for help with [Lenrit](https://github.com/muhammedhasann/Lenrit)
-- 🌱 I’m currently learning **Laravel ML and AI**
-- 💬 Ask me about **MERN**
-- 📫 How to reach me **mohammadhasan22003@gmail.com**
-- 👨‍💻 All of my projects are available at **https://muhammedhasan.tech/**
-- 📝 I regularly write articles on **https://medium.com/@muhammedhasann**
-- ⚡ Fun fact **I like memes**
+<h2 align="left" font-weight="bold">About me</h2>
+<ul>
+  <li>📖 Junior Mechanical Engineering Student</li>
+  <li>💼 Backend development BootCamp graduate at <a href="https://www.re-coded.com/">Re:Coded</a></li>
+  <li>🛠️ Competing in AI & Energy Competitions</li>
+  <li>🎨 Currently Learning: AI</li>
+  <li>📫 How to reach me **mohammadhasan22003@gmail.com**</li>
+  
+</ul>
 
 <br/>
+<br/>  
+
+<h2>Statistics</h2>
+<p align="center"><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api?username=muhammedhasann&count_private=true&show_icons=true&theme=tokyonight" /><img align="center" height="165px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammedhasann&layout=compact&theme=aura&langs_count=9" />
+</p>
+<p align="center"><img src="https://raw.githubusercontent.com/mashb1t/mashb1t/output/github-contribution-grid-snake-dark.svg" /></p>
+<br>
 
 
-## My Skill Set  
+
+
+## Skills  
 <table><tr><td valign="top" width="33%">
 
 
@@ -84,21 +87,4 @@ I’m also interested in product design and I’m actively participating in comp
 </div>  
 <br/>  
 
-<br/>  
 
-
-
-## Github Stats  
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
-<div align="center">
-<a href="https://github.com/muhammedhasann">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=muhammedhasann&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=muhammedhasann&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=muhammedhasann&theme=2077" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=muhammedhasann&theme=github_dark" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=muhammedhasann&theme=github_dark" height="180em" />
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h2 align="left">⚡Activity Graph:</h2>
-<img align="center" src="https://github-readme-activity-graph.vercel.app/graph?username=muhammedhasann&theme=react-dark"/>
-
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />

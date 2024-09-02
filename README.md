@@ -33,7 +33,7 @@ Hello there, I'm Muhammed!
 - 💻 Backend Development graduate from Re:Coded
 - 🔬 TÜBİTAK Undergraduate Researcher
 - 🌱 Passionate about sustainable energy and AI applications
-- 🤖 Exploring the intersection of mechanical systems and artificial intelligence
+- 🤖 Exploring the intersection of mechanical systems and AI
 - 🏆 Team lead for innovative projects in EV technology and energy optimization
 
 

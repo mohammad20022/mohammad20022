@@ -147,7 +147,7 @@ Hello there, I'm Muhammed!
   </tr>
 </table>
 
-<h2 align="center">💡 Innovative Projects</h2>
+<h2 align="center">🏆 Notable Projects</h2>
 
 <table align="center">
   <tr>
@@ -167,46 +167,6 @@ Hello there, I'm Muhammed!
       <br>Social Cause Connector
     </td>
   </tr>
-</table>
-
-
-
-
-
-
-
-
-
-<h2>🏆 Notable Projects</h2>
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3 align="center">EcoRay.ai</h3>
-      <div align="center">
-        <a href="https://github.com/muhammedhasann/EcoRay.ai" target="_blank"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Project 1"/></a>
-        <p>
-          <a href="https://github.com/muhammedhasann/EcoRay.ai" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-          </a>
-        </p>
-        <p><strong>Python, TensorFlow, Scikit-learn</strong> - Quantum Neural Network model for photovoltaic power prediction</p>
-      </div>
-    </td>
-    <td width="50%">
-      <h3 align="center">Congation X</h3>
-      <div align="center">
-        <a href="https://github.com/muhammedhasann/CongationX" target="_blank"><img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%" alt="Project 2"/></a>
-        <p>
-          <a href="https://github.com/muhammedhasann/CongationX" target="_blank">
-            <img src="https://img.shields.io/badge/Code-View_on_GitHub-blue?style=for-the-badge&logo=github" alt="GitHub Badge"/>
-          </a>
-        </p>
-        <p><strong>Python, PyTorch, BERT</strong> - Advanced sentiment analysis and entity recognition system</p>
-      </div>
-    </td>
-  </tr>
-</table>
 
 
 
